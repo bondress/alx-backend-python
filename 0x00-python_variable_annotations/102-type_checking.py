@@ -6,6 +6,7 @@ from typing import Tuple, List, Any
 
 
 def zoom_array(lst: Tuple, factor: int = 2) -> List:
+    """Changed annotations"""
     zoomed_in: List = [
         item for item in lst
         for i in range(factor)
