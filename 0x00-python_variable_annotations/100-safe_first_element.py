@@ -1,4 +1,4 @@
-!/usr/bin/env python3
+#!/usr/bin/env python3
 """Augment the given code with the correct duck-typed annotations:
 
 # The types of the elements of the input are not known
